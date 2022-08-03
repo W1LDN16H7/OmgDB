@@ -39,10 +39,7 @@ Database included
 # License [MIT License](https://github.com/W1LDN16H7/OmgDB/blob/master/LICENSE)
 
 <p align="center">
- 
  Made with :heart: By <a href="https://github.com/W1LDN16H7">TheKnight</a>
-
- 
 </p>
    
 
