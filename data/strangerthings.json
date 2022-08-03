@@ -1,0 +1,3768 @@
+[
+    {
+        "_id": "5e77d8d2caf0952a9c8499bf",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "Department of Energy"
+        ],
+        "occupation": [
+            "Agent"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "2",
+            "5",
+            "6"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/3/37/Agent_Repairman.png/revision/latest/scale-to-width-down/310?cb=20170303105021",
+        "name": "Agent Repairman",
+        "status": "Unknown",
+        "gender": "Male",
+        "eyeColor": "Blue",
+        "portrayedBy": "Robert Walker Branchaud"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499c1",
+        "aliases": [
+            "Smirnoff (by Hopper)",
+            "Traitor (by Grigori)"
+        ],
+        "otherRelations": [
+            "Murray Bauman",
+            "Joyce Byers",
+            "Jim Hopper",
+            "Grigori",
+            "Ozerov",
+            "Stepanov"
+        ],
+        "affiliation": [
+            "Soviet Union (betrayed)"
+        ],
+        "occupation": [
+            "Scientist"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "18",
+            "22",
+            "23",
+            "24"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/a/ad/Alexei.JPG/revision/latest/scale-to-width-down/310?cb=20190705023926",
+        "name": "Alexei",
+        "status": "Deceased",
+        "born": "1940s or 1950s",
+        "gender": "Male",
+        "eyeColor": "Brown",
+        "hairColor": "Brown",
+        "portrayedBy": "Alec Utgoff"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499c3",
+        "aliases": [
+            "Bald Eagle"
+        ],
+        "otherRelations": [
+            "Jim Hopper",
+            "Alexei",
+            "Joyce Byers",
+            "Grigori"
+        ],
+        "affiliation": [
+            "Chicago Sun-Times (formerly)"
+        ],
+        "occupation": [
+            "Private Investigator",
+            "Investigative Journalist  (formerly)"
+        ],
+        "residence": [
+            "Murray's warehouse"
+        ],
+        "appearsInEpisodes": [
+            "9",
+            "13",
+            "14",
+            "17",
+            "22",
+            "23",
+            "24",
+            "25"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/2/22/Murray_Bauman_S03.png/revision/latest/scale-to-width-down/310?cb=20190801070055",
+        "name": "Murray Bauman",
+        "status": "Alive",
+        "gender": "Male",
+        "eyeColor": "Hazel",
+        "hairColor": "Brown",
+        "portrayedBy": "Brett Gelman"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499d6",
+        "aliases": [
+            "Mrs. Driscoll (by Nancy Wheeler)"
+        ],
+        "otherRelations": [
+            "Nancy Wheeler",
+            "Jonathan Byers"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "Likely retired"
+        ],
+        "residence": [
+            "4819 Cornwallis Rd,Hawkins, Indiana"
+        ],
+        "appearsInEpisodes": [
+            "19",
+            "20",
+            "21",
+            "23"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/a/ae/Doris_Driscoll.png/revision/latest/scale-to-width-down/310?cb=20190705065355",
+        "name": "Doris Driscoll",
+        "status": "Deceased",
+        "born": "1905",
+        "gender": "Female",
+        "eyeColor": "Blue",
+        "hairColor": "Grey",
+        "portrayedBy": "Peggy Miley"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499f1",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "unknown"
+        ],
+        "residence": [
+            "New York City (April 1971 - 1978)"
+        ],
+        "appearsInEpisodes": [
+            "8"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/e/e2/Sarah-Hopper.png/revision/latest/scale-to-width-down/310?cb=20160815220035",
+        "name": "Sara Hopper",
+        "status": "Deceased (Died From Cancer)",
+        "born": "April 1971[1]",
+        "gender": "Female",
+        "eyeColor": "Blue",
+        "hairColor": "Blonde",
+        "portrayedBy": "Elle Graham"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499f7",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "Terry Ives",
+            "Gloria Flowers",
+            "Ken",
+            "Andrew Rich"
+        ],
+        "affiliation": [
+            "The Fellowship"
+        ],
+        "occupation": [
+            "Mechanic"
+        ],
+        "residence": [
+            "Indiana"
+        ],
+        "appearsInEpisodes": [
+            "unknown"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/f/f3/Alice_Johnson.png/revision/latest?cb=20190429185122",
+        "name": "Alice Johnson",
+        "status": "Alive",
+        "born": "1940s, 1950s or 1960s",
+        "gender": "Female"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499cd",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "unknown"
+        ],
+        "residence": [
+            "Byers house"
+        ],
+        "appearsInEpisodes": [
+            "1",
+            "3",
+            "5",
+            "8"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/1/11/Byers-Dog.png/revision/latest/scale-to-width-down/310?cb=20170128090233",
+        "name": "Chester",
+        "status": "Deceased[1]",
+        "gender": "Male"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499d1",
+        "aliases": [
+            "Dart"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "unknown"
+        ],
+        "residence": [
+            "Henderson House"
+        ],
+        "appearsInEpisodes": [
+            "11",
+            "12",
+            "13",
+            "14",
+            "16",
+            "17"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/7/7e/Dart-stage_4.png/revision/latest/scale-to-width-down/310?cb=20171029230310",
+        "name": "D'Artagnan",
+        "status": "Deceased",
+        "portrayedBy": "Craig Henighan (voice)"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499d4",
+        "aliases": [
+            "Diane Hopper (formerly)"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "unknown"
+        ],
+        "residence": [
+            "New York City"
+        ],
+        "appearsInEpisodes": [
+            "5",
+            "8"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/b/b3/Diane2.png/revision/latest/scale-to-width-down/310?cb=20170701115837",
+        "name": "Diane",
+        "status": "Alive",
+        "gender": "Female",
+        "eyeColor": "Blue",
+        "hairColor": "Blonde",
+        "portrayedBy": "Jerri Tubbs"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499ea",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "unknown"
+        ],
+        "residence": [
+            "Hawkins, Indiana"
+        ],
+        "appearsInEpisodes": [
+            "3",
+            "9",
+            "17"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/7/70/MrHolland.png/revision/latest?cb=20171117233732",
+        "name": "Mr. Holland",
+        "status": "Alive",
+        "gender": "Male",
+        "eyeColor": "Brown",
+        "portrayedBy": "Unknown"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499ef",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "unknown"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "unknown"
+        ]
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499f5",
+        "aliases": [
+            "009Nine"
+        ],
+        "otherRelations": [
+            "Francine (Friend)",
+            "Ricky (Friend)"
+        ],
+        "affiliation": [
+            "Hawkins National Laboratory"
+        ],
+        "occupation": [
+            "Test Subject"
+        ],
+        "residence": [
+            "Hawkins National Laboratory"
+        ],
+        "appearsInEpisodes": [
+            "unknown"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/0/03/Nine.PNG/revision/latest?cb=20190731112402",
+        "name": "Jamie",
+        "status": "Alive",
+        "born": "1969",
+        "gender": "Female",
+        "eyeColor": "Blue",
+        "hairColor": "Brown"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499fa",
+        "aliases": [
+            "Lar (By Jim Hopper)"
+        ],
+        "otherRelations": [
+            "Candice",
+            "Jim Hopper",
+            "Grigori"
+        ],
+        "affiliation": [
+            "Town Hall (formerly)"
+        ],
+        "occupation": [
+            "Mayor (formerly)"
+        ],
+        "residence": [
+            "Hawkins, Indiana"
+        ],
+        "appearsInEpisodes": [
+            "19",
+            "21",
+            "23",
+            "24",
+            "25"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/4/40/ST3-Mayor-Kline.png/revision/latest/scale-to-width-down/310?cb=20190321064347",
+        "name": "Larry Kline",
+        "status": "Alive",
+        "born": "1920s, 1930s or 1940s",
+        "gender": "Male",
+        "eyeColor": "Blue",
+        "hairColor": "Brown with white tones",
+        "portrayedBy": "Cary Elwes"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499c2",
+        "aliases": [
+            "Axe",
+            "Spider Hater",
+            "Dancing Man"
+        ],
+        "otherRelations": [
+            "Kali Prasad",
+            "Dottie",
+            "Mick",
+            "Funshine"
+        ],
+        "affiliation": [
+            "Kali's gang"
+        ],
+        "occupation": [
+            "Criminal"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "9",
+            "15"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/a/ab/Axel_S2.png/revision/latest/scale-to-width-down/279?cb=20180322054745",
+        "name": "Axel",
+        "status": "Alive",
+        "born": "Late 1950's or Early 1960's",
+        "gender": "Male",
+        "eyeColor": "Blue",
+        "hairColor": "Bleach Blond, and dyed Pink",
+        "portrayedBy": "James Landry Hébert"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499ca",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "Powell (partner/ friend)",
+            "Hopper (boss)"
+        ],
+        "affiliation": [
+            "Hawkins Police Department"
+        ],
+        "occupation": [
+            "Police officer at Hawkins Police Station"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "89",
+            "10",
+            "11",
+            "21"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/f/fb/Officer_Callahan.png/revision/latest/scale-to-width-down/310?cb=20170524082332",
+        "name": "Phil Callahan",
+        "status": "Alive",
+        "born": "1940's or 1950's",
+        "gender": "Male",
+        "eyeColor": "Brown",
+        "portrayedBy": "John Reynolds"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499cf",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "Scott Clarke (co-worker)"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "Principal of Hawkins Middle School"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "1",
+            "4",
+            "5",
+            "9"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/f/f0/Russell_Coleman.png/revision/latest/scale-to-width-down/310?cb=20170227163230",
+        "name": "Russell Coleman",
+        "status": "Alive",
+        "born": "1930's or 1940's",
+        "gender": "Male",
+        "portrayedBy": "Tony Vaughn"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499d5",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "Kali Prasad (friend/accomplice)",
+            "Axel (friend/accomplice)",
+            "Mick (friend/accomplice)",
+            "Funshine (friend/accomplice)"
+        ],
+        "affiliation": [
+            "Kali's gang"
+        ],
+        "occupation": [
+            "Criminal"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "9",
+            "15"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/8/84/ST2-Dottie.png/revision/latest/scale-to-width-down/246?cb=20180328071650",
+        "name": "Dottie",
+        "status": "Alive",
+        "born": "sometime in the 1960s",
+        "gender": "Female",
+        "eyeColor": "Blue",
+        "hairColor": "Blonde with different color tips (Dyed)",
+        "portrayedBy": "Anna Jacoby-Heron"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499ee",
+        "aliases": [
+            "Mommy (Heather)"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "The Mind Flayer"
+        ],
+        "occupation": [
+            "unknown"
+        ],
+        "residence": [
+            "Hawkins, Indiana"
+        ],
+        "appearsInEpisodes": [
+            "20",
+            "21",
+            "22",
+            "23"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/3/3c/Screen_Shot_2019-07-09_at_2.59.35_pm.png/revision/latest/scale-to-width-down/310?cb=20190709065957",
+        "name": "Janet Holloway",
+        "status": "Deceased",
+        "born": "1940's",
+        "gender": "Female",
+        "eyeColor": "Brown",
+        "hairColor": "Black",
+        "portrayedBy": "Holly Morris"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499f8",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "Employee at Family Video<br /",
+            "The Palace",
+            "Hawkins High School"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "9",
+            "13",
+            "25"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/6/63/Screenshot_2017-10-29_at_7.45.35_PM.png/revision/latest/scale-to-width-down/310?cb=20171030010108",
+        "name": "Keith",
+        "status": "Alive",
+        "born": "1968",
+        "gender": "Male",
+        "eyeColor": "Brown",
+        "hairColor": "Brown",
+        "portrayedBy": "Matty Cardarople"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499e6",
+        "aliases": [
+            "King Steve",
+            "Dingus"
+        ],
+        "otherRelations": [
+            "Dustin Henderson",
+            "Robin",
+            "Jonathan Byers",
+            "Nancy Wheeler",
+            "Billy Hargrove",
+            "Tommy H.",
+            "Carol"
+        ],
+        "affiliation": [
+            "Scoops Troop"
+        ],
+        "occupation": [
+            "Family Video employee<br /",
+            "Scoops Ahoy",
+            "employee",
+            "Hawkins High School"
+        ],
+        "residence": [
+            "Harrington house"
+        ],
+        "appearsInEpisodes": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/8/8b/ST3_Steve_Harrington_portrait.jpg/revision/latest/scale-to-width-down/310?cb=20190321055351",
+        "name": "Steve Harrington",
+        "status": "Alive",
+        "born": "1966",
+        "gender": "Male",
+        "eyeColor": "Brown",
+        "hairColor": "Brown",
+        "portrayedBy": "Joe Keery"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499c9",
+        "aliases": [
+            "Will the Wise",
+            "The Boy Who Came Back to Life",
+            "Zombie Boy",
+            "The Spy",
+            "Cleric"
+        ],
+        "otherRelations": [
+            "Mike Wheeler",
+            "Dustin Henderson",
+            "Lucas Sinclair",
+            "Max",
+            "Troy",
+            "James",
+            "Bob Newby"
+        ],
+        "affiliation": [
+            "AV Club",
+            "Party",
+            "Byers family"
+        ],
+        "occupation": [
+            "Student at Hawkins Middle School (formerly)"
+        ],
+        "residence": [
+            "Hawkins, Indiana  (1971 - 1985)",
+            "Byers House (1971 - October 1985)"
+        ],
+        "appearsInEpisodes": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/9/96/Will_S3.png/revision/latest/scale-to-width-down/285?cb=20190704211311",
+        "name": "Will Byers",
+        "status": "Alive",
+        "born": "March 22, 1971[1]",
+        "gender": "Male",
+        "eyeColor": "Brown",
+        "hairColor": "Brown",
+        "portrayedBy": "Noah Schnapp"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499cc",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "Hawkins National Laboratory (formerly)"
+        ],
+        "occupation": [
+            "unknown"
+        ],
+        "residence": [
+            "Chicago, Illinois"
+        ],
+        "appearsInEpisodes": [
+            "13",
+            "15"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/3/3c/Screen_Shot_2017-11-13_at_6.15.01_PM.png/revision/latest/scale-to-width-down/310?cb=20171114001537",
+        "name": "Ray Carroll",
+        "status": "Alive",
+        "born": "1920's, 1930's or 1940's",
+        "gender": "Male",
+        "eyeColor": "Brown",
+        "hairColor": "Bald",
+        "portrayedBy": "Pruitt Taylor Vince"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499da",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "Starcourt Mall"
+        ],
+        "occupation": [
+            "Jazzercise Instructor"
+        ],
+        "residence": [
+            "Hawkins, Indiana"
+        ],
+        "appearsInEpisodes": [
+            "20"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/0/0b/7Evil_Russian6773D35-AD30-4D57-8019-4FAD56EC80E4.png/revision/latest/scale-to-width-down/310?cb=20190707064714",
+        "name": "Evil Russian",
+        "status": "Alive",
+        "gender": "Male",
+        "eyeColor": "Unknown",
+        "hairColor": "Blonde",
+        "portrayedBy": "Kaiser Johnson"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499dd",
+        "aliases": [
+            "Six006"
+        ],
+        "otherRelations": [
+            "Ricky",
+            "Jamie",
+            "Marcy"
+        ],
+        "affiliation": [
+            "Hawkins National Laboratory (formerly)"
+        ],
+        "occupation": [
+            "Test Subject (formerly)"
+        ],
+        "residence": [
+            "Hawkins National Laboratory,Hawkins, Indiana"
+        ],
+        "appearsInEpisodes": [
+            "unknown"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/5/5f/Francine.png/revision/latest/scale-to-width-down/211?cb=20190225022559",
+        "name": "Francine",
+        "status": "Deceased",
+        "born": "1960s",
+        "gender": "Female",
+        "eyeColor": "Brown",
+        "hairColor": "Red"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499de",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "unknown"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "unknown"
+        ]
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499e0",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "Coroner"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "4"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/2/22/Gary_the_coroner.jpg/revision/latest/scale-to-width-down/310?cb=20161212073834",
+        "name": "Gary",
+        "status": "Alive",
+        "gender": "Male",
+        "portrayedBy": "Mark Withers"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499ed",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "Billy Hargrove † (co-worker)",
+            "Nancy Wheeler (classmate)"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "Lifeguard at Hawkins Community Pool (formerly)",
+            "Student at Hawkins High School (formerly)"
+        ],
+        "residence": [
+            "Hawkins, Indiana"
+        ],
+        "appearsInEpisodes": [
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/1/19/Heather.jpeg/revision/latest/scale-to-width-down/310?cb=20190706044131",
+        "name": "Heather Holloway",
+        "status": "Deceased",
+        "born": "Late 1960's",
+        "gender": "Female",
+        "eyeColor": "Brown",
+        "hairColor": "Brown",
+        "portrayedBy": "Francesca Reale"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499c6",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "Nancy Wheeler",
+            "Steve Harrington",
+            "Tommy H.",
+            "Carol",
+            "Tom Holloway",
+            "Bruce Lowe"
+        ],
+        "affiliation": [
+            "The Byers family"
+        ],
+        "occupation": [
+            "Hawkins High School",
+            "The Hawkins Post"
+        ],
+        "residence": [
+            "Hawkins, Indiana (1967 - 1985)",
+            "Byers House (1967 - October 1985)"
+        ],
+        "appearsInEpisodes": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/8/8e/Jonathan_S3.png/revision/latest?cb=20190709171439",
+        "name": "Jonathan Byers",
+        "status": "Alive",
+        "born": "1967",
+        "gender": "Male",
+        "eyeColor": "Brown",
+        "hairColor": "Brown",
+        "portrayedBy": "Charlie Heaton"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499f0",
+        "aliases": [
+            "Hopper",
+            "Chief Hopper",
+            "Hop",
+            "Chief",
+            "Antique Chariot",
+            "Fat Rambo"
+        ],
+        "otherRelations": [
+            "Joyce Byers",
+            "Benny Hammond",
+            "Bob Newby",
+            "Powell",
+            "Callahan",
+            "Murray Bauman",
+            "Grigori",
+            "Martin Brenner"
+        ],
+        "affiliation": [
+            "Hawkins Police Department",
+            "Department of Energy",
+            "Hawkins Lab"
+        ],
+        "occupation": [
+            "Police Chief",
+            "Homicide Detective (formerly)"
+        ],
+        "residence": [
+            "Hawkins"
+        ],
+        "appearsInEpisodes": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "89",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "1718",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/c/c6/ST3_Jim_Hopper_portrait.jpg/revision/latest/scale-to-width-down/310?cb=20190703002805",
+        "name": "Jim Hopper",
+        "status": "Alive",
+        "born": "1942[1]",
+        "gender": "Male",
+        "eyeColor": "Blue",
+        "hairColor": "Smokey Blonde",
+        "portrayedBy": "David Harbour"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499d7",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "unknown"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "1",
+            "2"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/1/16/Earl_Cropped.jpg/revision/latest/scale-to-width-down/310?cb=20161120192357",
+        "name": "Earl",
+        "status": "Alive",
+        "gender": "Male",
+        "portrayedBy": "David Dwyer"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499ce",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "Mike Wheeler",
+            "Lucas Sinclair",
+            "Dustin Henderson",
+            "Will Byers",
+            "Max",
+            "Joyce Byers"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "Science teacher at Hawkins Middle School - specifically Earth and Biology"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "1",
+            "2",
+            "4",
+            "5",
+            "6",
+            "79",
+            "11",
+            "12",
+            "17",
+            "19"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/a/a1/S03E02-Scott_Clarke.jpg/revision/latest/scale-to-width-down/310?cb=20190811042348",
+        "name": "Scott Clarke",
+        "status": "Alive",
+        "born": "1948",
+        "gender": "Male",
+        "eyeColor": "Brown",
+        "hairColor": "Brown",
+        "portrayedBy": "Randy Havens"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499e8",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "Mr. Henderson (ex-husband)"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "unknown"
+        ],
+        "residence": [
+            "Hawkins, Indiana"
+        ],
+        "appearsInEpisodes": [
+            "5",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "17",
+            "18"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/4/4b/S3_Claudia_Henderson.png/revision/latest/scale-to-width-down/310?cb=20190723061756",
+        "name": "Claudia Henderson",
+        "gender": "Female",
+        "portrayedBy": "Tabitha Kilgore"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499d0",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "unknown"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "1",
+            "2"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/f/f5/Cynthia.jpg/revision/latest/scale-to-width-down/310?cb=20161120205628",
+        "name": "Cynthia",
+        "status": "Alive",
+        "gender": "Female",
+        "eyeColor": "Blue",
+        "portrayedBy": "Stefanie Butler"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499d2",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "Troy Walsh",
+            "Mike Wheeler",
+            "Dustin Henderson",
+            "Lucas Sinclair",
+            "Will Byers",
+            "Eleven"
+        ],
+        "affiliation": [
+            "Hawkins Middle School(formerly)",
+            "Hawkins High School"
+        ],
+        "occupation": [
+            "Student at Hawkins Middle School (formerly)",
+            "Now Student at Hawkins High School"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "1",
+            "3",
+            "4",
+            "6"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/0/00/James.png/revision/latest/scale-to-width-down/310?cb=20170228152919",
+        "name": "James Dante",
+        "status": "Alive",
+        "born": "1969",
+        "gender": "Male",
+        "eyeColor": "Blue-Green",
+        "hairColor": "Brown",
+        "portrayedBy": "Cade Jones"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499df",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "Kali Prasad",
+            "Dottie",
+            "Axel",
+            "Mick"
+        ],
+        "affiliation": [
+            "Kali's gang"
+        ],
+        "occupation": [
+            "Criminal"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "9",
+            "15"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/1/1e/Funshine_S2.jpg/revision/latest/scale-to-width-down/310?cb=20180605084004",
+        "name": "Funshine",
+        "status": "Alive",
+        "born": "Late 1950s or Early 1960s",
+        "gender": "Male",
+        "portrayedBy": "Kai Greene"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499e4",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "Security guard"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "16",
+            "23",
+            "(vision)",
+            "25",
+            "(flashback)"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/c/c3/Neil_Hargrove_Family_Tree_icon_001.png/revision/latest/scale-to-width-down/310?cb=20171028223844",
+        "name": "Neil Hargrove",
+        "status": "Alive",
+        "gender": "Male",
+        "eyeColor": "Blue",
+        "hairColor": "Brown",
+        "portrayedBy": "Will Chase"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499e5",
+        "aliases": [
+            "Susan Mayfield"
+        ],
+        "otherRelations": [
+            "Sam Mayfield <sup id=\"cite_ref-STRM_0-0\" class=\"reference\"",
+            "[1]",
+            "Donnie<sup id=\"cite_ref-STRM_0-1\" class=\"reference\"",
+            "[1]",
+            "Vic<sup id=\"cite_ref-STRM_0-2\" class=\"reference\"",
+            "[1]",
+            "Gus<sup id=\"cite_ref-STRM_0-3\" class=\"reference\"",
+            "[1]",
+            "Ivan<sup id=\"cite_ref-STRM_0-4\" class=\"reference\"",
+            "[1]"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "unknown"
+        ],
+        "residence": [
+            "Hawkins, Indiana"
+        ],
+        "appearsInEpisodes": [
+            "16",
+            "17"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/4/42/Susan_Hargrove.png/revision/latest/scale-to-width-down/310?cb=20171029224604",
+        "name": "Susan Hargrove",
+        "status": "Alive",
+        "born": "1940s",
+        "gender": "Female",
+        "eyeColor": "Brown",
+        "hairColor": "Red",
+        "portrayedBy": "Jennifer Marshall"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499e9",
+        "aliases": [
+            "\"Compass Genius\"",
+            "\"Dusty”",
+            "\"Dusty-Bun”",
+            "\"Nerd\""
+        ],
+        "otherRelations": [
+            "Lucas Sinclair",
+            "Will Byers",
+            "Mike Wheeler",
+            "Eleven",
+            "Max Mayfield",
+            "Steve Harrington",
+            "Nancy Wheeler"
+        ],
+        "affiliation": [
+            "AV Club",
+            "Party",
+            "Scoops Troop",
+            "Henderson family"
+        ],
+        "occupation": [
+            "Student at Hawkins Middle School"
+        ],
+        "residence": [
+            "Hawkins, Indiana"
+        ],
+        "appearsInEpisodes": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/7/7b/Dustin_S3.png/revision/latest?cb=20190708052048",
+        "name": "Dustin Henderson",
+        "status": "Alive",
+        "born": "1971",
+        "gender": "Male",
+        "eyeColor": "Blue",
+        "hairColor": "Brown",
+        "portrayedBy": "Gaten Matarazzo"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499f2",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "The Mind Flayer"
+        ],
+        "occupation": [
+            "unknown"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "22",
+            "23"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/7/79/MindFlayerseason3.JPG/revision/latest/scale-to-width-down/310?cb=20190706060811",
+        "name": "Hospital Monster",
+        "status": "Absorbed into the Spider Monster",
+        "born": "July 3, 1985"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499f6",
+        "aliases": [
+            "Subject Zero",
+            "The Saint"
+        ],
+        "otherRelations": [
+            "Jim Hopper",
+            "Martha",
+            "Leroy Washington",
+            "Lincoln",
+            "Lisa Sargeson",
+            "Jacob Hoeler"
+        ],
+        "affiliation": [
+            "The Vipers<small"
+        ],
+        "occupation": [
+            "Leader of the Vipers(formerly)",
+            "Test subject (formerly)"
+        ],
+        "residence": [
+            "Rookwood Institute(formerly)"
+        ],
+        "appearsInEpisodes": [
+            "unknown"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/3/38/Stranger_Things_logo.png",
+        "name": "Saint John",
+        "status": "Deceased",
+        "born": "1930s",
+        "gender": "Male"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499dc",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "Terry Ives",
+            "Alice Johnson",
+            "Ken",
+            "Andrew Rich"
+        ],
+        "affiliation": [
+            "The Fellowship"
+        ],
+        "occupation": [
+            "Student",
+            "Part-time florist"
+        ],
+        "residence": [
+            "Bloomington, Indiana"
+        ],
+        "appearsInEpisodes": [
+            "unknown"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/2/2b/Gloria_flowers.png/revision/latest?cb=20190430122717",
+        "name": "Gloria Flowers",
+        "status": "Alive",
+        "born": "1940s, 1950s or 1960s",
+        "gender": "Female",
+        "eyeColor": "Brown",
+        "hairColor": "Brown"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499f9",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "Terry Ives",
+            "Alice Johnson",
+            "Gloria Flowers",
+            "Andrew Rich"
+        ],
+        "affiliation": [
+            "The Fellowship"
+        ],
+        "occupation": [
+            "Student"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "unknown"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/e/e1/Ken_suspicious_minds.png/revision/latest?cb=20190429200646",
+        "name": "Ken",
+        "status": "Alive",
+        "born": "1930s, 1940s, 1950s or 1960s",
+        "gender": "Male"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499c5",
+        "aliases": [
+            "Papa",
+            "Bad Man"
+        ],
+        "otherRelations": [
+            "Terry Ives",
+            "Eleven",
+            "Kali Prasad"
+        ],
+        "affiliation": [
+            "US Department of Energy",
+            "Hawkins National Laboratory",
+            "Narcotic Enforcement Division",
+            "HNL"
+        ],
+        "occupation": [
+            "Research scientist<br /",
+            "Hawkins National Laboratory"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "813",
+            "15",
+            "17"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/0/06/Dr_Martin_Brenner_version_3.png/revision/latest/scale-to-width-down/305?cb=20170416110233",
+        "name": "Martin Brenner",
+        "status": "Alive [1]",
+        "gender": "Male",
+        "eyeColor": "Blue",
+        "hairColor": "White",
+        "portrayedBy": "Matthew Modine"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499d8",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "Hawkins National LaboratoryDepartment of Energy"
+        ],
+        "occupation": [
+            "Scientist"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "1",
+            "",
+            "5",
+            "",
+            "6"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/2/27/ElevatorScientist.png/revision/latest?cb=20161019202403",
+        "name": "Elevator Scientist",
+        "status": "Deceased",
+        "gender": "Male",
+        "eyeColor": "Brown",
+        "portrayedBy": "Andrew Benator"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499db",
+        "aliases": [
+            "Flo"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "Hawkins Police Department"
+        ],
+        "occupation": [
+            "Secretary at Hawkins Police Station"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "1",
+            "6",
+            "7",
+            "89",
+            "11",
+            "12",
+            "19"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/d/d9/Florence.png/revision/latest/scale-to-width-down/310?cb=20170303104046",
+        "name": "Florence",
+        "status": "Alive",
+        "born": "1922",
+        "gender": "Female",
+        "portrayedBy": "Susan Shalhoub Larkin"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499f4",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "unknown"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "unknown"
+        ]
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499fb",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "Hawkins National LaboratoryDepartment of Energy"
+        ],
+        "occupation": [
+            "Agent"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "15,7,8"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/d/d8/Lead_Agent.png/revision/latest/scale-to-width-down/310?cb=20170225002608",
+        "name": "Lead Agent",
+        "status": "Unknown",
+        "gender": "Male",
+        "portrayedBy": "Tobias Jelinek"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499c0",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "Dustin Henderson",
+            "Eleven",
+            "Max Mayfield",
+            "Mike Wheeler",
+            "Lucas Sinclair",
+            "Will Byers",
+            "Nancy Wheeler"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "Student"
+        ],
+        "residence": [
+            "Hawkins, Indiana"
+        ],
+        "appearsInEpisodes": [
+            "17",
+            "19"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/b/b5/Stacey_Albright%2C_circa_1985.png/revision/latest/scale-to-width-down/310?cb=20190914155306",
+        "name": "Stacey Albright",
+        "status": "Alive",
+        "born": "1971",
+        "gender": "Female",
+        "eyeColor": "Brown",
+        "hairColor": "Reddish Brown",
+        "portrayedBy": "Sydney Bullock"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499c8",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "Joyce Byers (ex-wife)"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "unknown"
+        ],
+        "residence": [
+            "Indianapolis, Indiana<br /"
+        ],
+        "appearsInEpisodes": [
+            "1",
+            "2",
+            "4",
+            "5"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/e/ef/Lonnie.png/revision/latest/scale-to-width-down/310?cb=20170701115006",
+        "name": "Lonnie Byers",
+        "status": "Alive",
+        "born": "1930's or 1940's",
+        "gender": "Male",
+        "eyeColor": "Brown",
+        "portrayedBy": "Ross Partridge"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499d9",
+        "aliases": [
+            "El",
+            "011",
+            "Jane Ives",
+            "The Weirdo",
+            "Eleanor",
+            "Shirley Temple",
+            "Mage"
+        ],
+        "otherRelations": [
+            "Mike Wheeler",
+            "Dustin Henderson",
+            "Lucas Sinclair",
+            "Max Mayfield",
+            "Will Byers",
+            "Jonathan Byers",
+            "Benny Hammond",
+            "Martin Brenner"
+        ],
+        "affiliation": [
+            "Hawkins National Laboratory",
+            "Party",
+            "Ives family",
+            "Hopper family"
+        ],
+        "occupation": [
+            "Lab test subject (formerly)"
+        ],
+        "residence": [
+            "Hawkins, Indiana (1971 - 1985)",
+            "Byers house (July 1985 - October 1985)",
+            "Hopper cabin (December 1983 - July 1985)",
+            "Wheeler basement (November 1983)",
+            "Hawkins National Laboratory (1971 - November 1983)"
+        ],
+        "appearsInEpisodes": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/f/f1/Eleven_S03_portrait.png/revision/latest/scale-to-width-down/286?cb=20190722075442",
+        "name": "Eleven",
+        "status": "Alive",
+        "born": "1971",
+        "gender": "Female",
+        "eyeColor": "Brown",
+        "hairColor": "Brown",
+        "portrayedBy": "Millie Bobby Brown"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499e7",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "Department of Energy"
+        ],
+        "occupation": [
+            "Head of security at Hawkins National Laboratory"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "3",
+            "5",
+            "8"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/4/48/Hawkins_Head_of_Security.png/revision/latest/scale-to-width-down/310?cb=20170303104814",
+        "name": "Hawkins Head of Security",
+        "status": "Unknown",
+        "gender": "Male",
+        "eyeColor": "Gray",
+        "portrayedBy": "Pete Burris"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499d3",
+        "aliases": [
+            "The Monster",
+            "Man with No Face"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "unknown"
+        ],
+        "residence": [
+            "The Upside Down"
+        ],
+        "appearsInEpisodes": [
+            "1",
+            "2",
+            "3",
+            "5",
+            "6",
+            "8"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/f/ff/Demogorgon_-_Chapter_Eight.jpg/revision/latest/scale-to-width-down/310?cb=20170322074046",
+        "name": "The Demogorgon",
+        "status": "Deceased[1]",
+        "born": "Unknown",
+        "gender": "Unknown",
+        "portrayedBy": "Mark Steger"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499e1",
+        "aliases": [
+            "Arnold Schwarzenegger",
+            "Thug",
+            "Psychopath",
+            "Khrushchev",
+            "Commie Bastard",
+            ""
+        ],
+        "otherRelations": [
+            "Stepanov",
+            "Alexei",
+            "Jim Hopper",
+            "Joyce Byers",
+            "Murray Bauman",
+            "Larry Kline",
+            "Ozerov"
+        ],
+        "affiliation": [
+            "Soviet Union<p",
+            "Red Army <br /",
+            "Starcourt Mall"
+        ],
+        "occupation": [
+            "Hitman"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "18",
+            "19",
+            "20",
+            "22",
+            "23",
+            "24",
+            "25"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/0/08/Grigori_ava.jpg/revision/latest/scale-to-width-down/310?cb=20190709045740",
+        "name": "Grigori",
+        "status": "Deceased",
+        "born": "1930s or 1940s",
+        "gender": "Male",
+        "eyeColor": "Dark Brown",
+        "hairColor": "Dark Brown",
+        "portrayedBy": "Andrey Ivchenko"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499e2",
+        "aliases": [
+            "Ben"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "Benny's Burgers"
+        ],
+        "occupation": [
+            "Restaurant owner and Chef"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "1",
+            "2"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/5/51/Benny_Hammond.png/revision/latest/scale-to-width-down/310?cb=20170701120630",
+        "name": "Benny Hammond",
+        "status": "Deceased",
+        "gender": "Male",
+        "portrayedBy": "Chris Sullivan"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499fe",
+        "aliases": [
+            "9.5Control"
+        ],
+        "otherRelations": [
+            "Francine",
+            "Ricky"
+        ],
+        "affiliation": [
+            "Hawkins National Laboratory (formerly)"
+        ],
+        "occupation": [
+            "Test Subject"
+        ],
+        "residence": [
+            "Hawkins National Laboratory (formerly)"
+        ],
+        "appearsInEpisodes": [
+            "unknown"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/7/7f/Marcy_STSIX.png/revision/latest/scale-to-width-down/310?cb=20190828184707",
+        "name": "Marcy",
+        "status": "Alive",
+        "born": "1969",
+        "gender": "Female",
+        "eyeColor": "Blue",
+        "hairColor": "Brown"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499c4",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "Wendy (Friend)"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "unknown"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "23",
+            "25"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/6/6d/Screen_Shot_2019-07-09_at_10.40.45_am.png/revision/latest/scale-to-width-down/310?cb=20190709024058",
+        "name": "Billy's Mother",
+        "status": "Unknown",
+        "born": "1940s",
+        "gender": "Female",
+        "eyeColor": "Blue",
+        "hairColor": "Blonde",
+        "portrayedBy": "Beth Riesgraf"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499cb",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "Tommy Hagan",
+            "Steve Harrington",
+            "Nancy Wheeler",
+            "Jonathan Byers",
+            "Nicole",
+            "Tina",
+            "Vicki"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "Student at Hawkins High School (formerly)"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "2",
+            "3",
+            "6",
+            "79",
+            "10"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/e/ef/Carol_-_Weirdo_on_Maple_Street.png/revision/latest/scale-to-width-down/310?cb=20170307153321",
+        "name": "Carol Perkins",
+        "status": "Alive",
+        "born": "1960s",
+        "gender": "Female",
+        "eyeColor": "Blue",
+        "hairColor": "Red",
+        "portrayedBy": "Chelsea Talmadge"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499e3",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "Lucas Sinclair",
+            "Steve Harrington",
+            "Tommy H.",
+            "Heather Holloway",
+            "Eleven"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "Hawkins Community Pool",
+            "Hawkins High School"
+        ],
+        "residence": [
+            "Hawkins, Indiana"
+        ],
+        "appearsInEpisodes": [
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/6/60/S3Billy.jpg/revision/latest/scale-to-width-down/310?cb=20190720004254",
+        "name": "Billy Hargrove",
+        "status": "Deceased",
+        "born": "1967",
+        "gender": "Male",
+        "eyeColor": "Blue",
+        "hairColor": "Dirty blond",
+        "portrayedBy": "Dacre Montgomery"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499ec",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "unknown"
+        ],
+        "residence": [
+            "Hawkins, Indiana"
+        ],
+        "appearsInEpisodes": [
+            "3",
+            "9",
+            "11",
+            "17"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/b/b6/Marsha_Holland.png/revision/latest/scale-to-width-down/310?cb=20171118142207",
+        "name": "Marsha Holland",
+        "status": "Alive",
+        "gender": "Female",
+        "portrayedBy": "Cynthia Barrett"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499f3",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "unknown"
+        ],
+        "residence": [
+            "Ives house"
+        ],
+        "appearsInEpisodes": [
+            "6",
+            "13",
+            "15"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/d/dd/Becky_Ives.png/revision/latest/scale-to-width-down/310?cb=20170425225502",
+        "name": "Becky Ives",
+        "status": "Alive",
+        "born": "late 1940s or early 1950s",
+        "gender": "Female",
+        "eyeColor": "Brown",
+        "hairColor": "Dirty blonde",
+        "portrayedBy": "Amy Seimetz"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499c7",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "Jim Hopper",
+            "Bob Newby",
+            "Alexei",
+            "Murray Bauman",
+            "Karen Wheeler",
+            "Scott Clarke",
+            "Martin Brenner",
+            "Grigori"
+        ],
+        "affiliation": [
+            "Melvald's General Store",
+            "Byers family"
+        ],
+        "occupation": [
+            "Retail clerk (formerly)"
+        ],
+        "residence": [
+            "Hawkins, Indiana (1940's - 1985)",
+            "Byers House (1960's - October 1985)"
+        ],
+        "appearsInEpisodes": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/d/df/Joyce_%28S3%29.png/revision/latest/scale-to-width-down/310?cb=20190705190931",
+        "name": "Joyce Byers",
+        "status": "Alive",
+        "born": "1940s",
+        "gender": "Female",
+        "eyeColor": "Brown",
+        "hairColor": "Brown",
+        "portrayedBy": "Winona Ryder"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499fd",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "unknown"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "unknown"
+        ]
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499eb",
+        "aliases": [
+            "Barb",
+            "Miss Holland",
+            "Sam Owens",
+            ")"
+        ],
+        "otherRelations": [
+            "Nancy Wheeler (best friend)"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "High school student at Hawkins High School (formerly)"
+        ],
+        "residence": [
+            "Hawkins"
+        ],
+        "appearsInEpisodes": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "7",
+            "8"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/4/46/Barbara_Holland.png/revision/latest/scale-to-width-down/292?cb=20170314234835",
+        "name": "Barbara Holland",
+        "status": "Deceased",
+        "born": "September 13, 1967",
+        "gender": "Female",
+        "eyeColor": "Brown",
+        "hairColor": "Red",
+        "portrayedBy": "Shannon Purser"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499fc",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "Department of Energy"
+        ],
+        "occupation": [
+            "Scientist"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "1",
+            "3",
+            "5",
+            "6"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/c/c7/Lead_Scientist.png/revision/latest/scale-to-width-down/310?cb=20170408110437",
+        "name": "Lead Scientist",
+        "status": "Unknown",
+        "gender": "Male",
+        "portrayedBy": "Hugh Holub"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a0e",
+        "aliases": [
+            "008",
+            "Kal"
+        ],
+        "otherRelations": [
+            "Martin Brenner",
+            "Axel",
+            "Mick",
+            "Funshine",
+            "Dottie"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "Criminal"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "9",
+            "13",
+            "15",
+            "17"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/9/9e/Kali.png/revision/latest/scale-to-width-down/310?cb=20171028095030",
+        "name": "Kali Prasad",
+        "status": "Alive",
+        "born": "1964",
+        "gender": "Female",
+        "eyeColor": "Brown",
+        "hairColor": "Dyed purple",
+        "portrayedBy": "Linnea Berthelsen"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a18",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "unknown"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "5",
+            "13"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/0/01/Mr_Sinclair.png/revision/latest/scale-to-width-down/310?cb=20171119055608",
+        "name": "Mr. Sinclair",
+        "status": "Alive",
+        "born": "1930s or 1940s",
+        "gender": "Male",
+        "eyeColor": "Brown",
+        "hairColor": "Black",
+        "portrayedBy": "Bradford Haynes"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a28",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "unknown"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "unknown"
+        ]
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a05",
+        "aliases": [
+            "Shadow Monster",
+            "The Brain",
+            "He/Him (by Will, the Party and the Flayed)"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "unknown"
+        ],
+        "residence": [
+            "The Upside Down"
+        ],
+        "appearsInEpisodes": [
+            "9",
+            "10",
+            "11",
+            "12",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/0/07/The_Mind_Flayer_HD.jpg/revision/latest/scale-to-width-down/310?cb=20180412071103",
+        "name": "The Mind Flayer",
+        "status": "Alive",
+        "born": "Unknown",
+        "gender": "Male (according to Will Byers)"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c8499ff",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "Librarian"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "3",
+            "11"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/d/d5/Marissa.png/revision/latest/scale-to-width-down/310?cb=20170227162419",
+        "name": "Marissa",
+        "status": "Alive",
+        "gender": "Female",
+        "eyeColor": "Brown",
+        "hairColor": "Brown",
+        "portrayedBy": "Christi Waldon"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a13",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "Union of Soviet Socialist Republics (USSR)<br /",
+            "KGB (possibly)"
+        ],
+        "occupation": [
+            "Informant"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "5"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/d/df/Russian-spy.png/revision/latest/scale-to-width-down/310?cb=20170118173026",
+        "name": "Russian Agent",
+        "status": "Unknown",
+        "gender": "Male",
+        "portrayedBy": "Andre Pushkin"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a23",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "James Dante (best friend)",
+            "Mike Wheeler (enemy)",
+            "Dustin Henderson (enemy)",
+            "Lucas Sinclair (enemy)",
+            "Will Byers (enemy)",
+            "Eleven (enemy)"
+        ],
+        "affiliation": [
+            "Hawkins Middle School(formerly)",
+            "Hawkins High School"
+        ],
+        "occupation": [
+            "Student at Hawkins Middle School (formerly)",
+            "Now Student at Hawkins High School"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "1",
+            "3",
+            "4",
+            "6",
+            "7"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/0/08/Troy-0.png/revision/latest/scale-to-width-down/310?cb=20171006085218",
+        "name": "Troy Walsh",
+        "status": "Alive",
+        "born": "1969",
+        "gender": "Male",
+        "eyeColor": "Brown",
+        "hairColor": "Brown",
+        "portrayedBy": "Peyton Wich"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a00",
+        "aliases": [
+            "MADMAX",
+            "Zoomer",
+            "Maxine"
+        ],
+        "otherRelations": [
+            "Nate Walker <sup id=\"cite_ref-1\" class=\"reference\"",
+            "[2]",
+            "Lucas Sinclair",
+            "Dustin Henderson",
+            "Will Byers",
+            "Mike Wheeler",
+            "Eleven"
+        ],
+        "affiliation": [
+            "The Party",
+            "Griswold Family"
+        ],
+        "occupation": [
+            "Student in Hawkins Middle School"
+        ],
+        "residence": [
+            "Hawkins, Indiana"
+        ],
+        "appearsInEpisodes": [
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "16",
+            "1718",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/4/41/6496D145-7DEC-4C23-BB62-0059C0A1A72E.jpeg/revision/latest/scale-to-width-down/310?cb=20190709215216",
+        "name": "Max Mayfield",
+        "status": "Alive",
+        "born": "1971",
+        "gender": "Female",
+        "eyeColor": "Blue",
+        "hairColor": "Red",
+        "portrayedBy": "Sadie Sink"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a12",
+        "aliases": [
+            "Dad (by Francine)"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "Husband, father"
+        ],
+        "residence": [
+            "Unknown (formerly) Hawkins, Indiana (currently)"
+        ],
+        "appearsInEpisodes": [
+            "unknown"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/d/d1/Roy.PNG/revision/latest?cb=20190813050337",
+        "name": "Roy",
+        "status": "Alive (presumably)",
+        "gender": "Male",
+        "eyeColor": "Green",
+        "hairColor": "Light Brown"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a16",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "unknown"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "unknown"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/2/2e/ScoopsTroop.jpg/revision/latest/scale-to-width-down/310?cb=20190719131439",
+        "name": "Scoops Troop"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a1e",
+        "aliases": [
+            "The Mind Flayer"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "unknown"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/c/c2/Spider-Monster.png/revision/latest/scale-to-width-down/310?cb=20190817092700",
+        "name": "The Spider Monster",
+        "status": "Deceased"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a26",
+        "aliases": [
+            "Dungeon Master",
+            "Paladin"
+        ],
+        "otherRelations": [
+            "Eleven",
+            "Will Byers",
+            "Lucas Sinclair",
+            "Dustin Henderson",
+            "Max",
+            "Troy",
+            "James"
+        ],
+        "affiliation": [
+            "AV Club",
+            "Party",
+            "Wheeler family"
+        ],
+        "occupation": [
+            "Student at Hawkins Middle School"
+        ],
+        "residence": [
+            "Wheeler house"
+        ],
+        "appearsInEpisodes": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/f/f0/Mike_Wheeler_S3.png/revision/latest/scale-to-width-down/310?cb=20190918231339",
+        "name": "Mike Wheeler",
+        "status": "Alive",
+        "born": "1971",
+        "gender": "Male",
+        "eyeColor": "Brown",
+        "hairColor": "Dark Brown",
+        "portrayedBy": "Finn Wolfhard"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a2a",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "Farmer"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "9"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/5/54/Merrill.png/revision/latest/scale-to-width-down/310?cb=20171117053258",
+        "name": "Merrill Wright",
+        "status": "Alive",
+        "gender": "Male",
+        "portrayedBy": "Fenton Lawless"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a06",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "Lab Technician"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "9",
+            "10",
+            "14",
+            "16"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/4/42/Screen_Shot_2017-11-13_at_6.03.09_PM.png/revision/latest/scale-to-width-down/310?cb=20171114000413",
+        "name": "Nerdy Tech",
+        "status": "Deceased",
+        "gender": "Male",
+        "portrayedBy": "Joe Davison"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a09",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "Hawkins National Laboratory"
+        ],
+        "occupation": [
+            "Indiana State Police Trooper"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "3",
+            "4"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/e/e8/David_O%27Bannon.png/revision/latest/scale-to-width-down/310?cb=20161104092333",
+        "name": "David O'Bannon",
+        "status": "Unknown",
+        "gender": "Male",
+        "portrayedBy": "Ron Roggé"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a10",
+        "aliases": [
+            "003Three"
+        ],
+        "otherRelations": [
+            "Francine (girlfriend)",
+            "Marcy (friend)",
+            "Jamie (friend)"
+        ],
+        "affiliation": [
+            "Hawkins National Laboratory(formerly)"
+        ],
+        "occupation": [
+            "Test Subject (former)"
+        ],
+        "residence": [
+            "Hawkins National Laboratory(formerly)"
+        ],
+        "appearsInEpisodes": [
+            "unknown"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/c/c3/Ricky.png/revision/latest?cb=20190617075117",
+        "name": "Ricky",
+        "status": "Alive",
+        "born": "1960",
+        "gender": "Male",
+        "eyeColor": "Blue",
+        "hairColor": "Brown"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a17",
+        "aliases": [
+            "Test Pilot Shepard",
+            "Son (by Dr. Brenner)"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "Department of EnergyHawkins National Laboratory"
+        ],
+        "occupation": [
+            "Scientist"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "4"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/b/ba/F8814a76f3167f09d5851c79d6b9a2bc.png/revision/latest?cb=20160910051923",
+        "name": "Shepard",
+        "status": "Deceased",
+        "gender": "Male",
+        "portrayedBy": "Christopher Cody Robinson"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a1c",
+        "aliases": [
+            "Comrade General"
+        ],
+        "otherRelations": [
+            "Ozerov",
+            "Grigori",
+            "Alexei"
+        ],
+        "affiliation": [
+            "Soviet Union"
+        ],
+        "occupation": [
+            "General"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "18"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/2/2d/Stepanov.jpg/revision/latest/scale-to-width-down/310?cb=20190723041121",
+        "name": "Stepanov",
+        "status": "Alive",
+        "gender": "Male",
+        "eyeColor": "Blue",
+        "hairColor": "Bald",
+        "portrayedBy": "John Vodka"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a29",
+        "aliases": [
+            "Local Newswoman",
+            "Liz"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "News Anchor"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "1"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/d/d9/Brenda-Wood.png/revision/latest/scale-to-width-down/310?cb=20170103055045",
+        "name": "Brenda Wood",
+        "status": "Alive",
+        "gender": "Female",
+        "portrayedBy": "Herself"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a0b",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "Stepanov",
+            "Grigori",
+            "Alexei",
+            "Steve Harrington",
+            "Robin Buckley"
+        ],
+        "affiliation": [
+            "Soviet Union"
+        ],
+        "occupation": [
+            "Colonel"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "23"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/1/1a/General_Ozerov.jpg/revision/latest/scale-to-width-down/310?cb=20190718135519",
+        "name": "Ozerov",
+        "status": "Alive",
+        "gender": "Male",
+        "eyeColor": "Blue",
+        "hairColor": "Brown",
+        "portrayedBy": "Misha Kuznetsov"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a11",
+        "aliases": [
+            "Tweedledee"
+        ],
+        "otherRelations": [
+            "Steve Harrington",
+            "Dustin Henderson",
+            "Erica Sinclair",
+            "Tammy Thompson"
+        ],
+        "affiliation": [
+            "Scoops Troop"
+        ],
+        "occupation": [
+            "Hawkins High School",
+            "Family Video",
+            "employee<br /",
+            "Scoops Ahoy",
+            "employee"
+        ],
+        "residence": [
+            "Hawkins, Indiana"
+        ],
+        "appearsInEpisodes": [
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/f/fc/Robin_S3.png/revision/latest/scale-to-width-down/310?cb=20190409051202",
+        "name": "Robin Buckley",
+        "status": "Alive",
+        "born": "1968",
+        "gender": "Female",
+        "eyeColor": "Blue",
+        "hairColor": "Dirty Blonde",
+        "portrayedBy": "Maya Hawke"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a0d",
+        "aliases": [
+            "Cal"
+        ],
+        "otherRelations": [
+            "Callahan (partner/ friend)",
+            "Hopper (boss)"
+        ],
+        "affiliation": [
+            "Hawkins Police Department"
+        ],
+        "occupation": [
+            "Police officer"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "89",
+            "10",
+            "11",
+            "19"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/9/9a/Calvin_Powell_%28S3%29.png/revision/latest/scale-to-width-down/310?cb=20190704235420",
+        "name": "Calvin Powell",
+        "status": "Alive",
+        "born": "1940's or 1950's",
+        "gender": "Male",
+        "eyeColor": "Brown",
+        "hairColor": "Black",
+        "portrayedBy": "Rob Morgan"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a02",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "Melvald's General Store"
+        ],
+        "occupation": [
+            "Owner of Melvald's General Store"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "2",
+            "3",
+            "5",
+            "9"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/6/6e/Donald_Melvald.jpg/revision/latest/scale-to-width-down/310?cb=20160918105219",
+        "name": "Donald Melvald",
+        "status": "Alive",
+        "gender": "Male",
+        "eyeColor": "Dark Blue",
+        "portrayedBy": "Charles Lawlor"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a14",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "unknown"
+        ],
+        "residence": [
+            "Kamchatka Red Army Base"
+        ],
+        "appearsInEpisodes": [
+            "25"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/0/03/RussianDemogorgon.JPG/revision/latest/scale-to-width-down/310?cb=20190713060310",
+        "name": "Russian Demogorgon",
+        "status": "Alive"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a24",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "unknown"
+        ],
+        "residence": [
+            "Wheeler house"
+        ],
+        "appearsInEpisodes": [
+            "1",
+            "2",
+            "3",
+            "6",
+            "7",
+            "9",
+            "12",
+            "18",
+            "24"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/c/c5/Holly_Season_3.jpg/revision/latest/scale-to-width-down/310?cb=20190708224714",
+        "name": "Holly Wheeler",
+        "status": "Alive",
+        "born": "1980[1]",
+        "gender": "Female",
+        "eyeColor": "Blue",
+        "hairColor": "Blonde",
+        "portrayedBy": "Anniston and Tinsley Price"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a07",
+        "aliases": [
+            "Bob the Brain",
+            "Superhero"
+        ],
+        "otherRelations": [
+            "Jim Hopper",
+            "Will Byers"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "Manager of RadioShack"
+        ],
+        "residence": [
+            "Hawkins, Indiana"
+        ],
+        "appearsInEpisodes": [
+            "9",
+            "10",
+            "11",
+            "13",
+            "14",
+            "16",
+            "18",
+            "20"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/d/d0/Bob_Newby_S2.png/revision/latest/scale-to-width-down/310?cb=20180327083407",
+        "name": "Bob Newby",
+        "status": "Deceased (Killed by Demodogs)",
+        "born": "1940s",
+        "gender": "Male",
+        "eyeColor": "Hazel",
+        "hairColor": "Brown",
+        "portrayedBy": "Sean Astin"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a08",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "Carol (friend)",
+            " Tommy H. (friend)",
+            "Nancy Wheeler (former friend and enemy)",
+            "Jonathan Byers (enemy)",
+            "Tina (friend)",
+            "Vicki (friend)"
+        ],
+        "affiliation": [
+            "Hawkins High School"
+        ],
+        "occupation": [
+            "Student at Hawkins High School (formerly)"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "3",
+            "6"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/a/af/Nicole3.png/revision/latest/scale-to-width-down/310?cb=20170701105315",
+        "name": "Nicole",
+        "status": "Alive",
+        "born": "1966",
+        "gender": "Female",
+        "eyeColor": "Blue-Green",
+        "hairColor": "Red",
+        "portrayedBy": "Glennellen Anderson"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a1b",
+        "aliases": [
+            "Stalker",
+            "Ranger",
+            "Lukey"
+        ],
+        "otherRelations": [
+            "Dustin Henderson",
+            "Mike Wheeler",
+            "Will Byers",
+            "Eleven",
+            "Max",
+            "Troy",
+            "James"
+        ],
+        "affiliation": [
+            "AV Club",
+            "Party"
+        ],
+        "occupation": [
+            "Student at Hawkins Middle School"
+        ],
+        "residence": [
+            "Sinclair house"
+        ],
+        "appearsInEpisodes": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/8/8d/Lucas_Sinclair-S03.png/revision/latest/scale-to-width-down/310?cb=20190901044416",
+        "name": "Lucas Sinclair",
+        "status": "Alive",
+        "born": "1971",
+        "gender": "Male",
+        "eyeColor": "Brown",
+        "hairColor": "Black",
+        "portrayedBy": "Caleb McLaughlin"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a01",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "Farmer"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "10"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/2/2d/Eugene.png/revision/latest/scale-to-width-down/310?cb=20171117053258",
+        "name": "Eugene McCorkle",
+        "status": "Alive",
+        "gender": "Male",
+        "portrayedBy": "Al Mitchell"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a03",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "unknown"
+        ],
+        "residence": [
+            "Henderson house"
+        ],
+        "appearsInEpisodes": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/c/c5/Screen_Shot_2017-10-30_at_12.22.20.png/revision/latest/scale-to-width-down/310?cb=20171030112439",
+        "name": "Mews",
+        "status": "Deceased",
+        "gender": "Female",
+        "eyeColor": "Green",
+        "portrayedBy": "A Cat"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a19",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "unknown"
+        ],
+        "residence": [
+            "Maple Street<br /"
+        ],
+        "appearsInEpisodes": [
+            "5",
+            "10",
+            "13"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/1/12/Mrs_Sinclair.png/revision/latest/scale-to-width-down/310?cb=20171119054310",
+        "name": "Mrs. Sinclair",
+        "status": "Alive",
+        "born": "1940s",
+        "gender": "Female",
+        "eyeColor": "Brown",
+        "hairColor": "Black",
+        "portrayedBy": "Tara Wescott"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a1a",
+        "aliases": [
+            "Nerd (By Dustin)"
+        ],
+        "otherRelations": [
+            "Dustin Henderson",
+            "Robin Buckley",
+            "Steve Harrington",
+            "Tina"
+        ],
+        "affiliation": [
+            "Scoops Troop"
+        ],
+        "occupation": [
+            "Elementary School Student"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "10",
+            "13",
+            "14",
+            "1718",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/8/8d/Erica_Sinclair_S3.png/revision/latest/scale-to-width-down/310?cb=20190706021540",
+        "name": "Erica Sinclair",
+        "status": "Alive",
+        "born": "1975",
+        "gender": "Female",
+        "eyeColor": "Brown",
+        "hairColor": "Black",
+        "portrayedBy": "Priah Ferguson"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a1f",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "Carol (friend)",
+            "Vicki (friend)",
+            "Nicole (friend)"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "Student at Hawkins High School"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "9",
+            "10"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/a/a8/Tina.png/revision/latest/scale-to-width-down/284?cb=20171112133133",
+        "name": "Tina",
+        "status": "Alive",
+        "born": "Late 1960's",
+        "gender": "Female",
+        "eyeColor": "Brown",
+        "hairColor": "Brown",
+        "portrayedBy": "Madelyn Cline"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a15",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "Susan Hargrove(ex-wife)"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "unknown"
+        ],
+        "residence": [
+            "California"
+        ],
+        "appearsInEpisodes": [
+            "Stranger",
+            "Things:",
+            "Runaway",
+            "Max"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/3/38/Stranger_Things_logo.png",
+        "name": "Sam Mayfield",
+        "status": "Alive"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a27",
+        "aliases": [
+            "Nance",
+            "Nancy Drew"
+        ],
+        "otherRelations": [
+            "Barbara Holland",
+            "Steve Harrington",
+            "Jonathan Byers",
+            "Carol Perkins",
+            "Tommy Hagan",
+            "Bruce Lowe",
+            "✝",
+            "Tom Holloway",
+            "✝"
+        ],
+        "affiliation": [
+            "The Wheeler family",
+            "Griswold Family"
+        ],
+        "occupation": [
+            "Hawkins High School",
+            "Intern at <i",
+            "The Hawkins Post"
+        ],
+        "residence": [
+            "Wheeler house, Maple Street, Hawkins, Indiana"
+        ],
+        "appearsInEpisodes": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "89,",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/2/22/Nancy_S3.png/revision/latest/scale-to-width-down/273?cb=20190704211903",
+        "name": "Nancy Wheeler",
+        "status": "Alive",
+        "born": "1967",
+        "gender": "Female",
+        "eyeColor": "Blue",
+        "hairColor": "Brown",
+        "portrayedBy": "Natalia Dyer"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a1d",
+        "aliases": [
+            "Suzie-Poo (by Dustin Henderson)"
+        ],
+        "otherRelations": [
+            "Dustin Henderson (boyfriend)"
+        ],
+        "affiliation": [
+            "Camp Know Where"
+        ],
+        "occupation": [
+            "Middle School Student"
+        ],
+        "residence": [
+            "Salt Lake City, Utah"
+        ],
+        "appearsInEpisodes": [
+            "25"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/e/e7/Suzie_S3.png/revision/latest/scale-to-width-down/310?cb=20190705073739",
+        "name": "Suzie",
+        "status": "Alive",
+        "born": "1971",
+        "gender": "Female",
+        "eyeColor": "Brown",
+        "hairColor": "Brown",
+        "portrayedBy": "Gabriella Pizzolo"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a21",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "unknown"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "8",
+            "13",
+            "14",
+            "17",
+            "18"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/0/01/ST_1x08_%E2%80%93_Snake.jpg/revision/latest/scale-to-width-down/310?cb=20161205175716",
+        "name": "Vines",
+        "status": "Destroyed"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a22",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "unknown"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "7"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/a/a4/Troymother.JPG/revision/latest/scale-to-width-down/310?cb=20161212003103",
+        "name": "Mrs. Walsh",
+        "status": "Alive",
+        "gender": "Female",
+        "portrayedBy": "Amy Parrish"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a04",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "Kali Prasad (friend/accomplice)",
+            "Axel (friend/accomplice)",
+            "Dottie (friend/accompllice)",
+            "Funshine (friend/accomplice)"
+        ],
+        "affiliation": [
+            "Kali's gang"
+        ],
+        "occupation": [
+            "Criminal"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "9",
+            "15"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/b/b6/Mick_S2.png/revision/latest/scale-to-width-down/303?cb=20180322054012",
+        "name": "Mick",
+        "status": "Alive",
+        "born": "1960's",
+        "gender": "Female",
+        "eyeColor": "Brown",
+        "hairColor": "Black",
+        "portrayedBy": "Gabrielle Maiden"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a0a",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "Jim Hopper",
+            "Joyce Byers",
+            "Will Byers"
+        ],
+        "affiliation": [
+            "Department of Energy",
+            "Hawkins National Laboratory"
+        ],
+        "occupation": [
+            "Acting Director of Operations at Hawkins Lab (formerly)"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "16",
+            "17",
+            "25"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/f/fe/Sam_Owens-1985.png/revision/latest/scale-to-width-down/310?cb=20190811021133",
+        "name": "Sam Owens",
+        "status": "Alive",
+        "born": "somewhere in the 1920s",
+        "gender": "Male",
+        "eyeColor": "Gray",
+        "hairColor": "Gray",
+        "portrayedBy": "Paul Reiser"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a20",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "Carol Perkins",
+            "Billy Hargrove",
+            "Steve Harrington",
+            "Nicole",
+            "Robin Buckley"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "Student at Hawkins High School (formerly)"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "2",
+            "3",
+            "6",
+            "7",
+            "10",
+            "11",
+            "12"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/3/3b/Tommy_H_-_The_Bathtub.png/revision/latest/scale-to-width-down/310?cb=20170307153350",
+        "name": "Tommy Hagan",
+        "status": "Alive",
+        "born": "1966",
+        "gender": "Male",
+        "eyeColor": "Hazel- Brown",
+        "hairColor": "Brown",
+        "portrayedBy": "Chester Rushing"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a0c",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "unknown"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "unknown"
+        ],
+        "residence": [
+            "unknown"
+        ],
+        "appearsInEpisodes": [
+            "unknown"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/3/33/The_Party.png/revision/latest/scale-to-width-down/310?cb=20190723052256",
+        "name": "Party"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a0f",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "Alice Johnson",
+            "Gloria Flowers",
+            "Ken"
+        ],
+        "affiliation": [
+            "unknown"
+        ],
+        "occupation": [
+            "Student (formerly)",
+            "Soldier"
+        ],
+        "residence": [
+            "Indiana"
+        ],
+        "appearsInEpisodes": [
+            "unknown"
+        ],
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/3/38/Stranger_Things_logo.png",
+        "name": "Andrew Rich",
+        "status": "Deceased",
+        "born": "September 14",
+        "gender": "Male",
+        "hairColor": "Brown"
+    },
+    {
+        "_id": "5e77d8d2caf0952a9c849a25",
+        "aliases": [
+            "unknown"
+        ],
+        "otherRelations": [
+            "Joyce Byers (friend)",
+            "Jim Hopper (friend)"
+        ],
+        "affiliation": [
+            "The Wheeler family"
+        ],
+        "occupation": [
+            "Most likely unemployed"
+        ],
+        "residence": [
+            "Wheeler house"
+        ],
+        "appearsInEpisodes": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "89",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "1718",
+            "19",
+            "",
+            "21",
+            "22",
+            "24",
+            "25"
+        ],
+        "photo": "https://vignette.wikia.nocookie.net/strangerthings8338/images/b/bb/Karen_S3.png/revision/latest?cb=20190708062008",
+        "name": "Karen Wheeler",
+        "status": "Alive",
+        "born": "1940's",
+        "gender": "Female",
+        "eyeColor": "Brown",
+        "hairColor": "Light Brown",
+        "portrayedBy": "Cara Buono"
+    }
+]

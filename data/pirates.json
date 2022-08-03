@@ -1,0 +1,261 @@
+[
+    {
+        "id": "1",
+        "name": "Jack Sparrow",
+        "gender": "male",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/e12c6b042ba46e43697492be6bce82e81409abd7.jpeg",
+        "about": "Captain of the Black Pearl and legendary pirate of the Seven Seas, Captain Jack Sparrow is the irreverent trickster of the Caribbean. A captain of equally dubious morality and sobriety, a master of self-promotion and self interest, he ﬁghts a constant and losing battle with his own best tendencies."
+    },
+    {
+        "id": "2",
+        "name": "Hector Barbossa",
+        "gender": "male",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-12bpslx_48e9f0da.jpeg",
+        "about": "Once a ferocious pirate and deadly enemy of Captain Jack Sparrow, Captain Barbossa enters an uneasy alliance with his rival in a race to the Fountain of Youth. Hector Barbossa, a vile pirate returned from the dead, is the ultimate survivor. Having lost his leg—and the Black Pearl—Barbossa has traded black and silver for the grand blue and gold uniform of his Majesty’s Royal navy. Now serving as a privateer and commanding the Providence under the Union Jack rather than the Jolly Roger, Barbossa claims to owe his allegiance to King and Country. But is it valor or revenge that pushes Barbosa toward the Fountain of Youth, a rendezvous with Captain Jack, Blackbeard and destiny?"
+    },
+    {
+        "id": "3",
+        "name": "Joshamee Gibbs",
+        "gender": "male",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-9fled6_d03aef55.jpeg",
+        "about": "A superstitious deckhand with muted impatience for authority, Gibbs sails alongside his preferred captain and friend, Jack Sparrow."
+    },
+    {
+        "id": "4",
+        "name": "Elizabeth Swann",
+        "gender": "female",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-1keix0g_dcb60f1c.jpeg",
+        "about": "On board the HMS Dauntless as a young girl, Elizabeth tends to the sole shipwreck survivor who she discovers might be a pirate. Little does she know what lies ahead from this fateful encounter."
+    },
+    {
+        "id": "5",
+        "name": "Davy Jones",
+        "gender": "male",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-162ppbj_ec9d6c7c.jpeg",
+        "about": "The legendary Davy Jones is a supernatural force condemned for eternity to captain the haunted ship, the Flying Dutchman. But once, Davy Jones was a man, like any other, who ran afoul of that which vexes all men."
+    },
+    {
+        "id": "6",
+        "name": "Kraken",
+        "gender": "male",
+        "image": "https://www.giantbomb.com/a/uploads/scale_small/2/25631/1383664-kraken_psp.png",
+        "about": "The Kraken is a creature from Norse myth, said to roam the seas of Iceland and Norway.  The word Kraken comes from a Scandinavian word meaning unhealthy, twisted animal.  They have since passed into general sailor mythology.  They are large monsters, often depicted as squid or octopus-like creatures with many tentacles.  They are also occasionally depicted as large, fanged creatures with fish scales and humanoid arms.  They have appeared in many novels, movies, comics, and video games."
+    },
+    {
+        "id": "7",
+        "name": "Will Turner",
+        "gender": "male",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-nfwbfe_0f39b2c9.jpeg",
+        "about": "Born to a father he did not know was a pirate, Will Turner remains humble and selfless even as he sails the seas to save his father and find his true love Elizabeth Swan."
+    },
+    {
+        "id": "8",
+        "name": "Blackbeard",
+        "gender": "male",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-1hx92wj_46bf0c82.jpeg",
+        "about": "The blackest soul and the darkest heart of any pirate who ever lived, striking fear into the bravest of sailors. Blackbeard, a name uttered in terror by all who sail the sea, or any unfortunate enough to encounter him on dry land. His flagship, the Queen Anne's Revenge, is manned by zombies, festooned with the bones of his victims and spits ﬁre from its bow to incincrate enemy ships, or the occasional crew member fallen out of favor. Blackbeard dabbles in the Black Arts and wields a sword with one of the three sapphires of Triton. But Blackbeard lives under the shadow of a prophesied death, his only hope the restorative waters of the Fountain of Youth. Whatever it takes, no matter who is crushed beneath the weight of his heartless ambition, Blackbeard will get there, by any possible means."
+    },
+    {
+        "id": "9",
+        "name": "Angelica",
+        "gender": "female",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-1kiemvr_3688881a.jpeg",
+        "about": "With Blackbeard and Jack Sparrow in her life, it's no wonder beautiful Angelica is a pirate dangerous to match swords with, let alone hearts. A woman who tells lies that are truths and truths that are lies, Angelica may or may not be the daughter of the feared Blackbeard himself. A master of disguises, she learned the art of the con from the best, one Captain Jack Sparrow. An accomplished sailor who can wield a sword, ﬁght and plunder with the ﬁercest of pirates, Angelica is hell-bent on one goal: to save the eternal soul of Blackbeard from certain damnation, even if it means matching Captain Jack lie for lie and double cross for double cross."
+    },
+    {
+        "id": "10",
+        "name": "Pintel & Ragetti",
+        "gender": "male",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-edkkzh_090efe8c.jpeg",
+        "about": "Pintel and Ragetti muddle their way from one situation to another, small minds in the middle of great events."
+    },
+    {
+        "id": "11",
+        "name": "Jack the Monkey",
+        "gender": "male",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-1a1tdoq_372a7e6a.jpeg",
+        "about": "Named after Jack Sparrow, this capuchin monkey is fiercely loyal to his owner Captain Barbossa."
+    },
+    {
+        "id": "12",
+        "name": "Calypso / Tia Dalma",
+        "gender": "female",
+        "image": "https://www.listchallenges.com/f/items/72a79f44-1ecc-47b6-956e-8f7442fa48c0.jpg",
+        "about": "Before the events of the films, Davy Jones, a human, fell in love with the sea goddess Calypso. She gave him the task of guiding the spirits of the dead lost at sea to the next world. Jones was granted immortality on the condition that he could return to shore once every ten years. However, when Jones returned to shore after ten years of service, Calypso failed to appear. Feeling betrayed, Davy Jones made a secret agreement with the Pirate Lords, which resulted in Calypso being bound into a human body. She took the name Tia Dalma and began to practice Voodoo and Obeah magic."
+    },
+    {
+        "id": "13",
+        "name": "Syrena",
+        "gender": "female",
+        "image": "https://www.listchallenges.com/f/items/81a9e4ee-47df-4b8f-8282-a245e57e6c78.jpg",
+        "about": "Syrena, portrayed by Àstrid Bergès-Frisbey, is a mermaid who appears in On Stranger Tides.[42] She does not appear to be as hostile as the other mermaids. Following the battle at Whitecap Bay, she is captured by Blackbeard's crew, who need a mermaid's tear to activate the Fountain of Youth. When the glass tank Syrena is being carried in shatters, she changes to a human form, causing missionary Philip Swift to remove his shirt and cover her. Philip then carries her due to her inability to walk and names her in an attempt to make Blackbeard realize she is a person and not a creature. Philip and Syrena develop a strong bond."
+    },
+    {
+        "id": "14",
+        "name": "Bootstrap Bill Turner",
+        "gender": "male",
+        "image": "https://www.listchallenges.com/f/items/b8cfba32-d8da-4a7d-89bc-a0f5eb7b70c5.jpg",
+        "about": "William Bootstrap Bill Turner Sr., portrayed by Stellan Skarsgård, is a crewmember on Davy Jones' Flying Dutchman and Will Turner's father. He is mentioned in the first film, and he appears in Dead Man's Chest and At World's End.He was once a crewman on Black Pearl under Captain Jack Sparrow. When Sparrow's first mate, Hector Barbossa, led a mutiny against Sparrow, Bootstrap was the only one who did not participate. When the crew was later cursed by stealing Aztec gold, Bootstrap atoned for his failure to defend Sparrow by sending his coin to his young son William, so that he and the crew would not be able to find it and thus remain cursed forever. This act enraged Barbossa, and he punished Bootstrap by tying his bootstraps to a cannon and throwing him overboard. Due to the curse, Bootstrap could not die, and was forced to suffer constantly due to the lack of oxygen and crushing pressure on the seabed."
+    },
+    {
+        "id": "15",
+        "name": "James Norrington",
+        "gender": "male",
+        "image": "https://www.listchallenges.com/f/items/47d4d100-05e7-40fb-9d97-432495238075.jpg",
+        "about": "Norrington served in the Royal Navy as a lieutenant. He was stationed aboard HMS Dauntless as it made the crossing from England to Port Royal, carrying Governor Weatherby Swann and his young daughter, Elizabeth. Upon sighting a wrecked merchant vessel, Norrington ordered his men to search for survivors, leading to the rescue of a young Will Turner."
+    },
+    {
+        "id": "16",
+        "name": "Captain Teague",
+        "gender": "male",
+        "image": "https://www.listchallenges.com/f/items/65151f38-3900-4056-bfe4-b7f4332e48e0.jpg",
+        "about": "Captain Edward Teague, portrayed by Keith Richards, is Jack Sparrow's father. He is the former pirate lord of Madagascar and is now the keeper of the Pirate Code. He appears in At World's End, On Stranger Tides, and Dead Men Tell No Tales. His name is likely based on real world pirate Edward Teach. Teague serves as the Keeper of the Pirate Code, which he keeps with him at Shipwreck Cove. In At World's End, during the fourth meeting of the Brethren Court, Teague guns down a pirate who dismisses the code. He subsequently informs the Court of the conditions required for a declaration of war and the necessary election of a Pirate King. Teague seems to be fond of his son, Jack; when Jack observes that he has survived a great deal, Teague observes that the trick isn't living forever, but being able to live with oneself forever. When Jack asks about his mother, Teague shows him a shrunken head. Jack then comments, She looks great!."
+    },
+    {
+        "id": "17",
+        "name": "Captain Armando Salazar",
+        "gender": "male",
+        "image": "https://www.listchallenges.com/f/items/cfb42aee-58a5-4b00-8190-58bf8e5dedfd.jpg",
+        "about": "Captain Armando Salazar is an undead pirate hunter who commands the ghost ship Silent Mary. He appears in the fifth film, Dead Men Tell No Tales and is portrayed by Javier Bardem. Originally an officer in the Spanish Royal Navy, Salazar sailed the seas for many years, hunting and killing pirates, and earning himself the nickname el Matador del Mar, (which means the Butcher of the Sea). He was killed during a battle with the crew of Wicked Wench, commanded by a young Jack Sparrow. Sparrow tricked Salazar into sailing into the Devil's Triangle, where his ship sank and Salazar was killed. However, through the dark powers of the Triangle, Salazar and his crew were resurrected as the undead."
+    },
+    {
+        "id": "18",
+        "name": "Cutler Beckett",
+        "gender": "male",
+        "image": "https://www.listchallenges.com/f/items/ea74fc77-507f-499d-aa40-c984e9dc458b.jpg",
+        "about": "Lord Cutler Beckett, portrayed by Tom Hollander, appears in Dead Man's Chest and At World's End.[22] A ruthless mastermind, Beckett is the chairman of the East India Trading Company who is dedicated to eliminating piracy around the world."
+    },
+    {
+        "id": "19",
+        "name": "Carina Smyth",
+        "gender": "female",
+        "image": "https://www.listchallenges.com/f/items/ae511d52-8fc0-407f-a8ad-466092b88920.jpg",
+        "about": "Carina Smyth (later Carina Barbossa) is portrayed by Kaya Scodelario.[20] Left at an orphanage as a child, she uses the diary her father left her to search for the Trident of Poseidon.[21] She is interested in science, particularly horology and astronomy."
+    },
+    {
+        "id": "20",
+        "name": "Henry Turner",
+        "gender": "male",
+        "image": "https://www.listchallenges.com/f/items/8fe2e5df-1453-4ad2-9c95-cb1dca02601f.jpg",
+        "about": "Henry Turner, portrayed by Brenton Thwaites,[28] is the son of Will Turner and Elizabeth Swann and the grandson of Weatherby Swann and Bootstrap Bill Turner. He appears in At World's End and Dead Men Tell No Tales. He tries to reconnect with his father but struggles to break a curse that is preventing him from doing so."
+    },
+    {
+        "id": "21",
+        "name": "Anamaria",
+        "gender": "female",
+        "image": "https://www.listchallenges.com/f/items/5c332cd3-6bb9-4612-953c-d1b71ed29be8.jpg",
+        "about": "Anamaria, portrayed by Zoe Saldana, is a pirate whose ship was stolen, some years in the past, by Jack Sparrow. She appears in The Curse of the Black Pearl. She joins Mr. Gibbs and Will Turner to get a chance to confront Sparrow. After Anamaria slaps Sparrow and accuses him of stealing her ship, Will intervenes and promises her Interceptor (the ship Jack had stolen to chase Black Pearl) in exchange for her cooperation on the journey. Reluctantly, Anamaria agrees. In the end, she allows Jack to captain Black Pearl."
+    },
+    {
+        "id": "22",
+        "name": "Philip",
+        "gender": "male",
+        "image": "https://www.listchallenges.com/f/items/b48b2e04-3b50-4f6c-a8ae-1d2737b005d4.jpg",
+        "about": "Philip Swift, portrayed by Sam Claflin, is a missionary who appears in On Stranger Tides. After he was captured by Blackbeard, Philip's life was spared thanks to Angelica's belief that her father's soul can be saved. Along the journey to find the Fountain of Youth, Philip meets a beautiful mermaid and names her Syrena. They develop a close bond. Acting as Syrena's protector, he risks his own life for the mermaid, eventually falling in love with her."
+    },
+    {
+        "id": "23",
+        "name": "Scrum",
+        "gender": "male",
+        "image": "https://www.listchallenges.com/f/items/74b7af82-b509-424c-8a9f-dcd6e9e046e2.jpg",
+        "about": "Scrum, portrayed by Stephen Graham, is a pirate who appears in On Stranger Tides and Dead Men Tell No Tales.In the fourth film, Scrum assists Angelica in recruiting a crew while she is impersonating Jack Sparrow. He later sails on Queen Anne's Revenge under Blackbeard. At Whitecap Bay, he is almost killed by a mermaid. After Barbossa fatally wounds Blackbeard and commandeers Queen Anne's Revenge, Scrum joins his crew.In the fifth film, Scrum serves under Jack Sparrow but deserts him with the rest of the crew after an unsuccessful bank robbery in Saint Martin. Scrum and his shipmates later save Sparrow, embarking on a quest to find the legendary Trident of Poseidon. When the pirates find out that Sparrow was chased by vengeful ghosts they raise a mutiny, electing Joshamee Gibbs as their new captain, who later tricks Scrum into becoming a captain himself shortly before they are captured. The pirates manage to escape, boarding the Black Pearl and later saving Sparrow, Carina Smyth, and Henry Turner from Captain Salazar and his crew of ghosts."
+    },
+    {
+        "id": "24",
+        "name": "Ian Mercer",
+        "gender": "male",
+        "image": "https://www.listchallenges.com/f/items/2b32ec53-b043-4bef-843f-6640eb928ef4.jpg",
+        "about": "Ian Mercer, portrayed by David Schofield, is Lord Beckett's facially scarred, loyal personal assistant in Dead Man's Chest and At World's End. Despite serving faithfully in his official capacity as a clerk, Mercer often executes Beckett's more sinister agendas as an assassin and spy.When the Black Pearl is being taken over by the EITC, Mercer leads the boarding party. However, before they can even properly solidify control of the ship, the crew of the Black Pearl launch a counterattack, and Mercer ends up duelling Barbossa during the fighting. Once he sees that his marines are mostly beaten, Mercer jumps ship, and is presumably picked up by the Endeavour."
+    },
+    {
+        "id": "25",
+        "name": "Sao Feng",
+        "gender": "male",
+        "image": "https://www.listchallenges.com/f/items/6675250a-31c0-4484-8c1f-8acf201ea8d5.jpg",
+        "about": "In At World's End, Barbossa and Elizabeth intend to rescue Jack Sparrow from Davy Jones' Locker. They visit Feng at his bathhouse in Singapore, requesting a ship and a crew. Feng is suspicious and informs them that earlier that day, Will Turner attempted to steal the navigational charts to World's End. Barbossa and Elizabeth deny knowing Will, but when Feng threatens to kill him, Elizabeth reacts."
+    },
+    {
+        "id": "26",
+        "name": "Weatherby Swann",
+        "gender": "male",
+        "image": "https://www.listchallenges.com/f/items/49be763d-cff0-43c8-9d63-adcb9f91a03d.jpg",
+        "about": "Governor Weatherby Swann, portrayed by Jonathan Pryce, is the royal governor of Port Royal and the widowed father of Elizabeth Swann. In contrast to his strong-willed daughter, he is something of a milquetoast. Both Elizabeth and the Governor sailed from England to the Caribbean eight years prior to Curse of the Black Pearl, along with James Norrington. Swann is a doting father, and he wishes for his daughter to accept Commodore Norrington's marriage proposal. However, he eventually comes to accept that she truly loves Will Turner."
+    },
+    {
+        "id": "27",
+        "name": "Scarfield",
+        "gender": "male",
+        "image": "https://www.listchallenges.com/f/items/9bf93e5d-5bf6-4c79-b3fd-2ec333a05063.jpg",
+        "about": "John Scarfield appears in Dead Men Tell No Tales and was portrayed by David Wenham.Scarfield was a lieutenant of the Royal Navy.After Carina Smyth and Jack Sparrow are captured in Saint Martin, Scarfield orders for both of them to be executed. Later, when Henry Turner washes up in the town, Scarfield declares him a deserter and orders for him to be hanged as well. However, Henry, Carina and Jack manage to escape, with Jack knocking Scarfield out in the process. The three of them flee aboard the Dying Gull."
+    },
+    {
+        "id": "28",
+        "name": "King George II",
+        "gender": "male",
+        "image": "https://www.listchallenges.com/f/items/924ceb34-ad88-4a8f-afbe-9803800e8d0d.jpg",
+        "about": "King George II is portrayed by Richard Griffiths.[44] He appears in On Stranger Tides.Just before the events of the second film, he orders Cutler Beckett to take control of Port Royal and report events back to him. He does this to combat piracy. He appears onscreen in the fourth film, where he employs Hector Barbossa as a privateer. When Jack Sparrow refuses to lead an expedition to the Fountain of Youth, the King sends Barbossa to find the Fountain to stop the Spanish monarch from becoming immortal."
+    },
+    {
+        "id": "29",
+        "name": "Marty",
+        "gender": "male",
+        "image": "https://www.listchallenges.com/f/items/d1f41c6c-f650-4dc5-be4a-aecff559d7da.jpg",
+        "about": "Marty, portrayed by Martin Klebba,[36] is a dwarf pirate hired by Jack and Gibbs to search for the Black Pearl in The Curse of the Black Pearl. He has only one line of dialogue in the first film, but he becomes more prominent in the second and third films as one of the main crew members. At the end of At World's End, he leaves with Barbossa on the stolen Black Pearl. Marty often provides comic relief, such as being blown off his feet after firing a blunderbuss in At World's End. He also appears in Dead Men Tell No Tales once again as Jack Sparrow's crew member."
+    },
+    {
+        "id": "30",
+        "name": "Parrot",
+        "gender": "unknown",
+        "image": "https://www.listchallenges.com/f/items/27a97f1b-b293-49a1-9479-83921cdcb1f6.jpg",
+        "about": "Parrots, also known as psittacines, are birds of the roughly 372 species in 86 genera that make up the order Psittaciformes, found in most warm and tropical regions. The order is subdivided in three families: the Psittacidae ('true' parrots), the Cacatuidae (cockatoos) and the Strigopidae (New Zealand parrots). Parrots have a pan-tropical distribution with several species inhabiting the temperate Southern Hemisphere as well. The greatest diversity of parrots are found in South America and Australia."
+    },
+    {
+        "id": "31",
+        "name": "Cabin Boy",
+        "gender": "male",
+        "image": "https://www.listchallenges.com/f/items/02edcb8e-480c-43a5-8f03-bea87d329ac6.jpg",
+        "about": "Cabin boy or ship's boy was title given to a young boy who run errands for the captain. Those who served as cabin boys were usually from 14–16 years old and also helped the cook in the galley and carried buckets of food from the galley to the forecastle where the ordinary seamen ate. They would have to run from one end of the ship to the other carrying messages and become familiar with the sails, lines and ropes and the use of each in all sort sorts of weather."
+    },
+    {
+        "id": "32",
+        "name": "Chevalle",
+        "gender": "male",
+        "image": "https://www.listchallenges.com/f/items/4fca5959-fe25-4a71-8f01-0822501102e1.jpg",
+        "about": "Chevalle was a Pirate Lord hailing from Marseilles, the trade capital of France,[4] and operating during the time of Lord Cutler Beckett's attempts to eradicate piracy in the Caribbean. Chevalle was the lord of the Mediterranean Sea,[5] and was known to use the title Capitaine."
+    },
+    {
+        "id": "33",
+        "name": "Gentleman Jocard",
+        "gender": "male",
+        "image": "https://www.listchallenges.com/f/items/d014af68-154a-4f1b-b1b5-596921e95fbd.jpg",
+        "about": "Gombo, better known as Gentleman Jocard, was the Pirate Lord of the Atlantic Ocean, during the time of Lord Cutler Beckett's attempts to eradicate piracy in the Caribbean.Jocard was wanted dead or alive by the East India Trading Company for crimes including a slave revolt, assuming a false identity, and piracy on the British Isles. The reward was 3,600 guineas."
+    },
+    {
+        "id": "34",
+        "name": "Ammand the Corsair",
+        "gender": "male",
+        "image": "https://www.listchallenges.com/f/items/c1b895f1-dde7-475b-a994-8043e4864dcf.jpg",
+        "about": "Ammand was the Pirate Lord of the Black Sea during the time of Lord Cutler Beckett's attempts to eradicate piracy around the World. Ammand was sometime called Ammand the Corsair. He was one of the Pirate Lords that participated in the fourth Brethren Court meeting, the outcome of which was a declaration of war against the East India Trading Company. Ammand also observed the decisive battle around Calypso's maelstrom."
+    },
+    {
+        "id": "35",
+        "name": "Sri Sumbhajee Angria",
+        "gender": "male",
+        "image": "https://www.listchallenges.com/f/items/758c4621-ce3d-416a-bb63-35c21133224b.jpg",
+        "about": "Sumbhajee Angria was the Pirate Lord of the Indian Ocean and Terror of the Arabian Sea. Residing in a palace in India, presumably Bombay, Sumbhajee used the honorific Sri and was known as a Hindu Priest. Sri Sumbhajee was one of many who assembled at Shipwreck Cove for the meeting of the Fourth Brethren Court. He also invaded the East India Trading Company's ships, before they entered India."
+    },
+    {
+        "id": "36",
+        "name": "Mistress Ching",
+        "gender": "female",
+        "image": "https://www.listchallenges.com/f/items/88f10a2d-7824-4572-afde-84cd26dceb25.jpg",
+        "about": "Mistress Ching was a blind Pirate Lord during the time of Lord Cutler Beckett's attempts to eradicate piracy in the Caribbean. Ching was the lord of the Pacific Ocean[4], and was known to have traveled five of the Seven Seas.[5] During the War Against Piracy, Ching supported Elizabeth Swann's election as Pirate King, allowing the pirates to defeat Beckett and Davy Jones during the battle of Calypso's maelstrom. Powerful to the end, Mistress Ching was one of the few pirate captains to retire proper, setting herself up in Canton, a wealthy lady."
+    },
+    {
+        "id": "37",
+        "name": "Tai Huang",
+        "gender": "male",
+        "image": "https://www.listchallenges.com/f/items/2834d854-7602-4920-bc2f-3ada57edc754.jpg",
+        "about": "Tai Huang was the captain of Sao Feng's guards, stationed in Singapore at the time of the rescue attempt for Jack Sparrow."
+    }
+]

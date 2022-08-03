@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "title": "Stranger Things",
+        "images": [
+            "https://raw.githubusercontent.com/W1LDN16H7/fandom-api/master/resources/st1.jpg",
+            "https://raw.githubusercontent.com/W1LDN16H7/fandom-api/master/resources/st2.jpg"
+        ],
+        "genres": " Horror, Horror fiction,Drama",
+        "storyline": "In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.",
+        "years_active": "2016-",
+        "imdb ": "8.7"
+    },
+    {
+        "id": "2",
+        "title": "Star Wars",
+        "images": [
+            "https://raw.githubusercontent.com/W1LDN16H7/fandom-api/master/resources/stw4.jpg",
+            "https://raw.githubusercontent.com/W1LDN16H7/fandom-api/master/resources/stw3.jpg"
+        ],
+        "genres": "Science fiction",
+        "storyline": "As multiple star systems get involved in the Clone Wars, the Jedi Knights struggle to keep the peace and defeat the droid army of the Separatists. Meanwhile, an old threat slowly reveals its presence.",
+        "years_active": "1977-2019",
+        "imdb ": "8.4"
+    },
+    {
+        "id": "3",
+        "title": "Harry Potter",
+        "images": [
+            "https://raw.githubusercontent.com/W1LDN16H7/fandom-api/master/resources/hp1.jpg",
+            "https://raw.githubusercontent.com/W1LDN16H7/fandom-api/master/resources/hp2.jpg"
+        ],
+        "genres": "Fantasy",
+        "storyline": "Harry Potter series is a story about a young orphan - Harry Potter- who lives with his maternal aunt and uncle and their son(the dursleys). At the age of 11, Harry gets to know that he is a wizard (his relatives are non-magical people, muggles) and has been offered admission in Hogwarts school of Witchcraft and Wizardry. He gets to know that there’s a magical world running parallel to the real world but it is hidden in secrecy.",
+        "years_active": "2001-2011",
+        "imdb ": "8.1"
+    },
+    {
+        "id": "4",
+        "title": "Pirates of the Caribbean",
+        "images": [
+            "https://wallpapermemory.com/uploads/794/pirates-of-the-caribbean-wallpaper-hd-1080p-24761.jpg",
+            "https://wallpaperaccess.com/full/1103973.jpg"
+        ],
+        "genres": "Fantasy swashbuckler",
+        "storyline": "Pirates of the Caribbean is a sweeping action-adventure story set in an era when villainous pirates scavenged the Caribbean seas. This roller coaster tale teams a young man, Will Turner, with an unlikely ally in rogue pirate Jack Sparrow. Together, they must battle a band of the world's most treacherous pirates, led by the cursed Captain Barbossa, in order to save Elizabeth, the love of Will's life, as well as recover the lost treasure that Jack seeks. Against improbable odds, they race towards a climactic confrontation on the mysterious Isla de Muerta. Clashing their swords in fierce mortal combat, Will and Jack attempt to recapture The Black Pearl ship, save the British navy, and relinquish a fortune in forbidden treasure thereby lifting the curse of the Pirates of the Caribbean.",
+        "years_active": "July 9, 2003-May 26, 2017",
+        "imdb ": "8.1"
+    },
+    {
+        "id": "5",
+        "title": "Marvel Cinematic Universe",
+        "images": [
+            "https://raw.githubusercontent.com/W1LDN16H7/fandom-api/master/resources/mv1.jpg",
+            "https://raw.githubusercontent.com/W1LDN16H7/fandom-api/master/resources/mv2.jpg"
+        ],
+        "genres": "Superhero",
+        "storyline": "The future of civilization rests in the fate of the One Ring, which has been lost for centuries. Powerful forces are unrelenting in their search for it. But fate has placed it in the hands of a young Hobbit named Frodo Baggins (Elijah Wood), who inherits the Ring and steps into legend. A daunting task lies ahead for Frodo when he becomes the Ringbearer - to destroy the One Ring in the fires of Mount Doom where it was forged.",
+        "years_active": "2001-2003",
+        "imdb ": "8.8"
+    }
+]
