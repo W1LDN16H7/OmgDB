@@ -7,32 +7,33 @@ This is a simple database solution for the OmgDB A Movies Character Database.
 
 This database solution is built using the following repositories:
 
-[https://github.com/W1LDN16H7/fandom-api][Fandom API]
+[Fandom API](https://github.com/W1LDN16H7/fandom-api)
 
 
-[https://github.com/api-tutorial/stranger-things-api] (StrangerThings)
+ [StrangerThings](https://github.com/api-tutorial/stranger-things-api)
 
 
-[https://github.com/KostaSav/hp-api] (HarryPotterAPI)
+[HarryPotterAPI](https://github.com/KostaSav/hp-api) 
+
 Author:
 
-[https://github.com/W1LDN16H7] (TheKnight)
+[TheKnight](https://github.com/W1LDN16H7) 
 
 
-[https://omg-db.herokuapp.com/api/v1/marvel](/api/v1/marvel)
+[/api/v1/marvel](https://omg-db.herokuapp.com/api/v1/marvel)
 
-[https://omg-db.herokuapp.com/api/v1/marvel?id=1](/api/v1/marvel?id=1)
+[/api/v1/marvel?id=1](https://omg-db.herokuapp.com/api/v1/marvel?id=1)
 
 
-[https://omg-db.herokuapp.com/api/v1/marvel](Marvel Studio)
+[Marvel Studio](https://omg-db.herokuapp.com/api/v1/marvel)
 
-[https://omg-db.herokuapp.com/api/v1/starwars](StarWars World)
+[StarWars World](https://omg-db.herokuapp.com/api/v1/starwars)
 
-[https://omg-db.herokuapp.com/api/v1/hp](HarryPotter)
+[HarryPotter](https://omg-db.herokuapp.com/api/v1/hp)
 
-[https://omg-db.herokuapp.com/api/v1/strangerthings](Stranger Things)
+[Stranger Things](https://omg-db.herokuapp.com/api/v1/strangerthings)
 
-[https://omg-db.herokuapp.com/api/v1/pirates](Pirates of the Caribbean)
+[Pirates of the Caribbean](https://omg-db.herokuapp.com/api/v1/pirates)
 
 
 Please contribute by adding more movies data or create a beautiful landing page for OmgDB
