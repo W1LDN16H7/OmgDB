@@ -7,7 +7,7 @@ This is a simple database solution for the OmgDB A Movies Character Database.
 
 This database solution is built using the following repositories:
 
-[https://github.com/W1LDN16H7/fandom-api] (Fandom API)
+[https://github.com/W1LDN16H7/fandom-api][Fandom API]
 
 
 [https://github.com/api-tutorial/stranger-things-api] (StrangerThings)
