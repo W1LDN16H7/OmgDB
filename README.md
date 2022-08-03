@@ -40,7 +40,7 @@ Database included
 
 <p align="center">
  
- Made with :heart: By [TheKnight] (https://github.com/W1LDN16H7) 
+ Made with :heart: By <a href="https://github.com/W1LDN16H7">TheKnight</a>
 
  
 </p>
